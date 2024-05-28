@@ -1,6 +1,6 @@
 Car Rental Portal Developed using PHP and MySQL.  This project has three modules:<br>
 1.Users<br>
-2.Admin>br>
+2.Admin<br>
 3.Guest<br>
 Guest Users <br>
 Guest user can view the website and check out the information about rental cars.
