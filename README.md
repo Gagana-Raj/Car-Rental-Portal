@@ -1,4 +1,4 @@
-Car Rental Portal Developed using PHP and MySQL.  This project has three modules:
+Car Rental Portal Developed using PHP and MySQL.  This project has three modules:<br>
 1.Users
 2.Admin
 3.Guest
